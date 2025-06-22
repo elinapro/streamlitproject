@@ -47,9 +47,9 @@ def WS_results_by_year(conn):
     try:
         year = input("Enter year: ").strip()
         sql = f"""
-            SELECT Title, Team1, Score1, Team2, Score2
+            SELECT Year, Team1, Score1, Team2, Score2
             FROM WS_results
-            WHERE Title LIKE '%{year}%'
+            WHERE Year LIKE '%{year}%'
         """
         run_query(conn, sql)
     except Exception as e:
@@ -59,7 +59,7 @@ def WS_results_by_year(conn):
 def mets_win(conn):
     try:
         sql = """
-            SELECT DISTINCT SUBSTR(Title, 1, 4) AS Year
+            SELECT Year
             FROM WS_results
             WHERE (Team1 LIKE '%Mets%' AND CAST(Score1 AS INTEGER) > CAST(Score2 AS INTEGER))
                OR (Team2 LIKE '%Mets%' AND CAST(Score2 AS INTEGER) > CAST(Score1 AS INTEGER))
@@ -73,7 +73,7 @@ def mets_win(conn):
 def Phils_part(conn):
     try:
         sql = """
-            SELECT DISTINCT SUBSTR(Title, 1, 4) AS Year
+            SELECT Year
             FROM WS_results
             WHERE Team1 LIKE '%Phillies%' OR Team2 LIKE '%Phillies%'
             ORDER BY Year;

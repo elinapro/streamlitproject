@@ -45,7 +45,7 @@ finally:
     driver.quit()
 
 
-# Save to CSV
+# Save dataframe to CSV
 try:
     df = pd.DataFrame(
         data, columns=["Title", "Team1", "Score1", "Team2", "Score2"])
