@@ -1,0 +1,495 @@
+Title,Team1,Score1,Team2,Score2
+World Series,National League,Wins,American League,Wins
+"1903 World Series
+  8 Game Series","Pittsburgh Pirates
+[0 - 1 in Series Play]",3,"Boston Americans
+[1 - 0 in Series Play]",5
+"1904 World Series
+  x Game Series","No Series (See Fact #1)
+  [x - x in Series Play]",x,"No Series (See Fact #1)
+  [x - x in Series Play]",x
+"1905 World Series
+  5 Game Series","New York Giants
+[1 - 0 in Series Play]",4,"Philadelphia Athletics
+[0 - 1 in Series Play]",1
+"1906 World Series
+  6 Game Series","Chicago Cubs
+[0 - 1 in Series Play]",2,"Chicago White Sox
+[1 - 0 in Series Play]",4
+"1907 World Series
+  5 Game Series | 1 Tie","Chicago Cubs
+[1 - 1 in Series Play]",4,"Detroit Tigers
+[0 - 1 in Series Play]",0
+"1908 World Series
+  5 Game Series","Chicago Cubs
+[2 - 1 in Series Play]",4,"Detroit Tigers
+[0 - 2 in Series Play]",1
+"1909 World Series
+  7 Game Series","Pittsburgh Pirates
+[1 - 1 in Series Play]",4,"Detroit Tigers
+[0 - 3 in Series Play]",3
+"1910 World Series
+  5 Game Series","Chicago Cubs
+[2 - 2 in Series Play]",1,"Philadelphia Athletics
+[1 - 1 in Series Play]",4
+"1911 World Series
+  6 Game Series","New York Giants
+[1 - 1 in Series Play]",2,"Philadelphia Athletics
+[2 - 1 in Series Play]",4
+"1912 World Series
+  8 Game Series | 1 Tie","New York Giants
+[1 - 2 in Series Play]",3,"Boston Red Sox
+[2 - 0 in Series Play]",4
+"1913 World Series
+  5 Game Series","New York Giants
+  [1 - 3 in Series Play]",1,"Philadelphia Athletics
+  [3 - 1 in Series Play]",4
+"1914 World Series
+  4 Game Series","Boston Braves
+[1 - 0 in Series Play]",4,"Philadelphia Athletics
+[3 - 2 in Series Play]",0
+"1915 World Series
+  5 Game Series","Philadelphia Phillies
+[0 - 1 in Series Play]",1,"Boston Red Sox
+[3 - 0 in Series Play]",4
+"1916 World Series
+  5 Game Series","Brooklyn Robins
+[0 - 1 in Series Play]",1,"Boston Red Sox
+[4 - 0 in Series Play]",4
+"1917 World Series
+  6 Game Series","New York Giants
+[1 - 4 in Series Play]",2,"Chicago White Sox
+[2 - 0 in Series Play]",4
+"1918 World Series
+  6 Game Series","Chicago Cubs
+[2 - 3 in Series Play]",2,"Boston Red Sox
+[5 - 0 in Series Play]",4
+"1919 World Series
+  8 Game Series","Cincinnati Reds
+[1 - 0 in Series Play]",5,"Chicago White Sox
+[2 - 1 in Series Play]",3
+"1920 World Series
+  7 Game Series","Brooklyn Robins
+[0 - 2 in Series Play]",2,"Cleveland Indians
+[1 - 0 in Series Play]",5
+"1921 World Series
+  8 Game Series","New York Giants
+[2 - 4 in Series Play]",5,"New York Yankees
+[0 - 1 in Series Play]",3
+"1922 World Series
+  5 Game Series | 1 Tie","New York Giants
+[3 - 4 in Series Play]",4,"New York Yankees
+[0 - 2 in Series Play]",0
+"1923 World Series
+  6 Game Series","New York Giants
+[3 - 5 in Series Play]",2,"New York Yankees
+[1 - 2 in Series Play]",4
+"1924 World Series
+  7 Game Series","New York Giants
+[3 - 6 in Series Play]",3,"Washington Senators
+[1 - 0 in Series Play]",4
+"1925 World Series
+  7 Game Series","Pittsburgh Pirates
+[2 - 1 in Series Play]",4,"Washington Senators
+[1 - 1 in Series Play]",3
+"1926 World Series
+  7 Game Series","St. Louis Cardinals
+[1 - 0 in Series Play]",4,"New York Yankees
+[1 - 3 in Series Play]",3
+"1927 World Series
+  4 Game Series","Pittsburgh Pirates
+[2 - 2 in Series Play]",0,"New York Yankees
+[2 - 3 in Series Play]",4
+"1928 World Series
+  4 Game Series","St. Louis Cardinals
+[1 - 1 in Series Play]",0,"New York Yankees
+[3 - 3 in Series Play]",4
+"1929 World Series
+  5 Game Series","Chicago Cubs
+[2 - 4 in Series Play]",1,"Philadelphia Athletics
+[4 - 2 in Series Play]",4
+"1930 World Series
+  6 Game Series","St. Louis Cardinals
+[1 - 2 in Series Play]",2,"Philadelphia Athletics
+[5 - 2 in Series Play]",4
+"1931 World Series
+  7 Game Series","St. Louis Cardinals
+[2 - 2 in Series Play]",4,"Philadelphia Athletics
+[5 - 3 in Series Play]",3
+"1932 World Series
+  4 Game Series","Chicago Cubs
+[2 - 5 in Series Play]",0,"New York Yankees
+[4 - 3 in Series Play]",4
+"1933 World Series
+  5 Game Series","New York Giants
+[4 - 6 in Series Play]",4,"Washington Senators
+[1 - 2 in Series Play]",1
+"1934 World Series
+  7 Game Series","St. Louis Cardinals
+[3 - 2 in Series Play]",4,"Detroit Tigers
+[0 - 4 in Series Play]",3
+"1935 World Series
+  6 Game Series","Chicago Cubs
+[2 - 6 in Series Play]",2,"Detroit Tigers
+[1 - 4 in Series Play]",4
+"1936 World Series
+  6 Game Series","New York Giants
+[4 - 7 in Series Play]",2,"New York Yankees
+[5 - 3 in Series Play]",4
+"1937 World Series
+  5 Game Series","New York Giants
+[4 - 8 in Series Play]",1,"New York Yankees
+[6 - 3 in Series Play]",4
+"1938 World Series
+  4 Game Series","Chicago Cubs
+[2 - 7 in Series Play]",0,"New York Yankees
+[7 - 3 in Series Play]",4
+"1939 World Series
+  4 Game Series","Cincinnati Reds
+[1 - 1 in Series Play]",0,"New York Yankees
+[8 - 3 in Series Play]",4
+"1940 World Series
+  7 Game Series","Cincinnati Reds
+[2 - 1 in Series Play]",4,"Detroit Tigers
+[1 - 5 in Series Play]",3
+"1941 World Series
+  5 Game Series","Brooklyn Dodgers
+[0 - 3 in Series Play]",1,"New York Yankees
+[9 - 3 in Series Play]",4
+"1942 World Series
+  5 Game Series","St. Louis Cardinals
+[4 - 2 in Series Play]",4,"New York Yankees
+[9 - 4 in Series Play]",1
+"1943 World Series
+  5 Game Series","St. Louis Cardinals
+[4 - 3 in Series Play]",1,"New York Yankees
+[10 - 4 in Series Play]",4
+"1944 World Series
+  6 Game Series","St. Louis Cardinals
+[5 - 3 in Series Play]",4,"St. Louis Browns
+[0 - 1 in Series Play]",2
+"1945 World Series
+  7 Game Series","Chicago Cubs
+[2 - 8 in Series Play]",3,"Detroit Tigers
+[2 - 5 in Series Play]",4
+"1946 World Series
+  7 Game Series","St. Louis Cardinals
+[6 - 3 in Series Play]",4,"Boston Red Sox
+[5 - 1 in Series Play]",3
+"1947 World Series
+  7 Game Series","Brooklyn Dodgers
+[0 - 4 in Series Play]",3,"New York Yankees
+[11 - 4 in Series Play]",4
+"1948 World Series
+  6 Game Series","Boston Braves
+[1 - 1 in Series Play]",2,"Cleveland Indians
+[2 - 0 in Series Play]",4
+"1949 World Series
+  5 Game Series","Brooklyn Dodgers
+[0 - 5 in Series Play]",1,"New York Yankees
+[12 - 4 in Series Play]",4
+"1950 World Series
+  4 Game Series","Philadelphia Phillies
+[0 - 2 in Series Play]",0,"New York Yankees
+[13 - 4 in Series Play]",4
+"1951 World Series
+  6 Game Series","New York Giants
+[4 - 9 in Series Play]",2,"New York Yankees
+[14 - 4 in Series Play]",4
+"1952 World Series
+  7 Game Series","Brooklyn Dodgers
+[0 - 6 in Series Play]",3,"New York Yankees
+[15 - 4 in Series Play]",4
+"1953 World Series
+  6 Game Series","Brooklyn Dodgers
+[0 - 7 in Series Play]",2,"New York Yankees
+[16 - 4 in Series Play]",4
+"1954 World Series
+  4 Game Series","New York Giants
+[5 - 9 in Series Play]",4,"Cleveland Indians
+[2 - 1 in Series Play]",0
+"1955 World Series
+  7 Game Series","Brooklyn Dodgers
+[1 - 7 in Series Play]",4,"New York Yankees
+[16 - 5 in Series Play]",3
+"1956 World Series
+  7 Game Series","Brooklyn Dodgers
+[1 - 8 in Series Play]",3,"New York Yankees
+[17 - 5 in Series Play]",4
+"1957 World Series
+  7 Game Series","Milwaukee Braves
+[2 - 1 in Series Play]",4,"New York Yankees
+[17 - 6 in Series Play]",3
+"1958 World Series
+  7 Game Series","Milwaukee Braves
+[2 - 2 in Series Play]",3,"New York Yankees
+[18 - 6 in Series Play]",4
+"1959 World Series
+  6 Game Series","Los Angeles Dodgers
+[2 - 8 in Series Play]",4,"Chicago White Sox
+[2 - 2 in Series Play]",2
+"1960 World Series
+  7 Game Series","Pittsburgh Pirates
+[3 - 2 in Series Play]",4,"New York Yankees
+[18 - 7 in Series Play]",3
+"1961 World Series
+  5 Game Series","Cincinnati Reds
+[2 - 2 in Series Play]",1,"New York Yankees
+[19 - 7 in Series Play]",4
+"1962 World Series
+  7 Game Series","San Francisco Giants
+[5 - 10 in Series Play]",3,"New York Yankees
+[20 - 7 in Series Play]",4
+"1963 World Series
+  4 Game Series","Los Angeles Dodgers
+[3 - 8 in Series Play]",4,"New York Yankees
+[20 - 8 in Series Play]",0
+"1964 World Series
+  7 Game Series","St. Louis Cardinals
+[7 - 3 in Series Play]",4,"New York Yankees
+[20 - 9 in Series Play]",3
+"1965 World Series
+  7 Game Series","Los Angeles Dodgers
+[4 - 8 in Series Play]",4,"Minnesota Twins
+[1 - 3 in Series Play]",3
+"1966 World Series
+  4 Game Series","Los Angeles Dodgers
+[4 - 9 in Series Play]",0,"Baltimore Orioles
+[1 - 1 in Series Play]",4
+"1967 World Series
+  7 Game Series","St. Louis Cardinals
+[8 - 3 in Series Play]",4,"Boston Red Sox
+[5 - 2 in Series Play]",3
+"1968 World Series
+  7 Game Series","St. Louis Cardinals
+[8 - 4 in Series Play]",3,"Detroit Tigers
+[3 - 5 in Series Play]",4
+"1969 World Series
+  5 Game Series","New York Mets
+[1 - 0 in Series Play]",4,"Baltimore Orioles
+[1 - 2 in Series Play]",1
+"1970 World Series
+  5 Game Series","Cincinnati Reds
+[2 - 3 in Series Play]",1,"Baltimore Orioles
+[2 - 2 in Series Play]",4
+"1971 World Series
+  7 Game Series","Pittsburgh Pirates
+[4 - 2 in Series Play]",4,"Baltimore Orioles
+[2 - 3 in Series Play]",3
+"1972 World Series
+  7 Game Series","Cincinnati Reds
+[2 - 4 in Series Play]",3,"Oakland Athletics
+[6 - 3 in Series Play]",4
+"1973 World Series
+  7 Game Series","New York Mets
+[1 - 1 in Series Play]",3,"Oakland Athletics
+[7 - 3 in Series Play]",4
+"1974 World Series
+  5 Game Series","Los Angeles Dodgers
+[4 - 10 in Series Play]",1,"Oakland Athletics
+[8 - 3 in Series Play]",4
+"1975 World Series
+  7 Game Series","Cincinnati Reds
+[3 - 4 in Series Play]",4,"Boston Red Sox
+[5 - 3 in Series Play]",3
+"1976 World Series
+  4 Game Series","Cincinnati Reds
+[4 - 4 in Series Play]",4,"New York Yankees
+[20 - 10 in Series Play]",0
+"1977 World Series
+  6 Game Series","Los Angeles Dodgers
+[4 - 11 in Series Play]",2,"New York Yankees
+[21 - 10 in Series Play]",4
+"1978 World Series
+  6 Game Series","Los Angeles Dodgers
+[4 - 12 in Series Play]",2,"New York Yankees
+[22 - 10 in Series Play]",4
+"1979 World Series
+  7 Game Series","Pittsburgh Pirates
+[5 - 2 in Series Play]",4,"Baltimore Orioles
+[2 - 4 in Series Play]",3
+"1980 World Series
+  6 Game Series","Philadelphia Phillies
+[1 - 2 in Series Play]",4,"Kansas City Royals
+[0 - 1 in Series Play]",2
+"1981 World Series
+  6 Game Series","Los Angeles Dodgers
+[5 - 12 in Series Play]",4,"New York Yankees
+[22 - 11 in Series Play]",2
+"1982 World Series
+  7 Game Series","St. Louis Cardinals
+[9 - 4 in Series Play]",4,"Milwaukee Brewers
+[0 - 1 in Series Play]",3
+"1983 World Series
+  5 Game Series","Philadelphia Phillies
+[1 - 3 in Series Play]",1,"Baltimore Orioles
+[3 - 4 in Series Play]",4
+"1984 World Series
+  5 Game Series","San Diego Padres
+[0 - 1 in Series Play]",1,"Detroit Tigers
+[4 - 5 in Series Play]",4
+"1985 World Series
+  7 Game Series","St. Louis Cardinals
+[9 - 5 in Series Play]",3,"Kansas City Royals
+[1 - 1 in Series Play]",4
+"1986 World Series
+  7 Game Series","New York Mets
+[2 - 1 in Series Play]",4,"Boston Red Sox
+[5 - 4 in Series Play]",3
+"1987 World Series
+  7 Game Series","St. Louis Cardinals
+[9 - 6 in Series Play]",3,"Minnesota Twins
+[2 - 3 in Series Play]",4
+"1988 World Series
+  5 Game Series","Los Angeles Dodgers
+[6 - 12 in Series Play]",4,"Oakland Athletics
+[8 - 4 in Series Play]",1
+"1989 World Series
+  4 Game Series","San Francisco Giants
+[5 - 11 in Series Play]",0,"Oakland Athletics
+[9 - 4 in Series Play]",4
+"1990 World Series
+  4 Game Series","Cincinnati Reds
+[5 - 4 in Series Play]",4,"Oakland Athletics
+[9 - 5 in Series Play]",0
+"1991 World Series
+  7 Game Series","Atlanta Braves
+[2 - 3 in Series Play]",3,"Minnesota Twins
+[3 - 3 in Series Play]",4
+"1992 World Series
+  6 Game Series","Atlanta Braves
+[2 - 4 in Series Play]",2,"Toronto Blue Jays
+[1 - 0 in Series Play]",4
+"1993 World Series
+  6 Game Series","Philadelphia Phillies
+[1 - 4 in Series Play]",2,"Toronto Blue Jays
+[2 - 0 in Series Play]",4
+"1994 World Series
+  x Game Series","No Series (Strike Year)
+  [x - x in Series Play]",--,"No Series (Strike Year)
+  [x - x in Series Play]",--
+"1995 World Series
+  6 Game Series","Atlanta Braves
+[3 - 4 in Series Play]",4,"Cleveland Indians
+[2 - 2 in Series Play]",2
+"1996 World Series
+  6 Game Series","Atlanta Braves
+[3 - 5 in Series Play]",2,"New York Yankees
+[23 - 11 in Series Play]",4
+"1997 World Series
+  7 Game Series","Florida Marlins
+[1 - 0 in Series Play]",4,"Cleveland Indians
+[2 - 3 in Series Play]",3
+"1998 World Series
+  4 Game Series","San Diego Padres
+[0 - 2 in Series Play]",0,"New York Yankees
+[24 - 11 in Series Play]",4
+"1999 World Series
+  4 Game Series","Atlanta Braves
+[3 - 6 in Series Play]",0,"New York Yankees
+[25 - 11 in Series Play]",4
+"2000 World Series
+  5 Game Series","New York Mets
+[2 - 2 in Series Play]",1,"New York Yankees
+[26 - 11 in Series Play]",4
+"2001 World Series
+  7 Game Series","Arizona Diamondbacks
+[1 - 0 in Series Play]",4,"New York Yankees
+[26 - 12 in Series Play]",3
+"2002 World Series
+  7 Game Series","San Francisco Giants
+[5 - 12 in Series Play]",3,"Anaheim Angels
+[1 - 0 in Series Play]",4
+"2003 World Series
+  6 Game Series","Florida Marlins
+[2 - 0 in Series Play]",4,"New York Yankees
+[26 - 13 in Series Play]",2
+"2004 World Series
+  4 Game Series","St. Louis Cardinals
+[9 - 7 in Series Play]",0,"Boston Red Sox
+[6 - 4 in Series Play]",4
+"2005 World Series
+  4 Game Series","Houston Astros
+[0 - 1 in Series Play]",0,"Chicago White Sox
+[3 - 2 in Series Play]",4
+"2006 World Series
+  5 Game Series","St. Louis Cardinals
+[10 - 7 in Series Play]",4,"Detroit Tigers
+[4 - 6 in Series Play]",1
+"2007 World Series
+  4 Game Series","Colorado Rockies
+[0 - 1 in Series Play]",0,"Boston Red Sox
+[7 - 4 in Series Play]",4
+"2008 World Series
+  5 Game Series","Philadelphia Phillies
+[2 - 4 in Series Play]",4,"Tampa Bay Rays
+[0 - 1 in Series Play]",1
+"2009 World Series
+  6 Game Series","Philadelphia Phillies
+[2 - 5 in Series Play]",2,"New York Yankees
+[27 - 13 in Series Play]",4
+"2010 World Series
+  5 Game Series","San Francisco Giants
+[6 - 12 in Series Play]",4,"Texas Rangers
+[0 - 1 in Series Play]",1
+"2011 World Series
+  7 Game Series","St. Louis Cardinals
+[11 - 7 in Series Play]",4,"Texas Rangers
+[0 - 2 in Series Play]",3
+"2012 World Series
+  4 Game Series","San Francisco Giants
+[7 - 12 in Series Play]",4,"Detroit Tigers
+[4 - 7 in Series Play]",0
+"2013 World Series
+  6 Game Series","St. Louis Cardinals
+[11 - 8 in Series Play]",2,"Boston Red Sox
+[8 - 4 in Series Play]",4
+"2014 World Series
+  7 Game Series","San Francisco Giants
+[8 - 12 in Series Play]",4,"Kansas City Royals
+[1 - 2 in Series Play]",3
+"2015 World Series
+  5 Game Series","New York Mets
+[2 - 3 in Series Play]",1,"Kansas City Royals
+[2 - 2 in Series Play]",4
+"2016 World Series
+  7 Game Series","Chicago Cubs
+[3 - 8 in Series Play]",4,"Cleveland Indians
+[2 - 4 in Series Play]",3
+"2017 World Series
+  7 Game Series","Los Angeles Dodgers
+[6 - 13 in Series Play]",3,"Houston Astros
+[1 - 1 in Series Play]",4
+"2018 World Series
+  5 Game Series","Los Angeles Dodgers
+[6 - 14 in Series Play]",1,"Boston Red Sox
+[9 - 4 in Series Play]",4
+"2019 World Series
+  7 Game Series","Washington Nationals
+[1 - 0 in Series Play]",4,"Houston Astros
+[1 - 2 in Series Play]",3
+"2020 World Series
+  6 Game Series","Los Angeles Dodgers
+[7 - 14 in Series Play]",4,"Tampa Bay Rays
+[0 - 2 in Series Play]",2
+"2021 World Series
+  6 Game Series","Atlanta Braves
+[4 - 6 in Series Play]",4,"Houston Astros
+[1 - 3 in Series Play]",2
+"2022 World Series
+  6 Game Series","Philadelphia Phillies
+[2 - 6 in Series Play]",2,"Houston Astros
+[2 - 3 in Series Play]",4
+"2023 World Series
+  5 Game Series","Arizona Diamondbacks
+[1 - 1 in Series Play]",1,"Texas Rangers
+[1- 2 in Series Play]",4
+"2024 World Series
+  5 Game Series","Los Angeles Dodgers
+[8 - 14 in Series Play]",4,"New York Yankees
+[27 - 14 in Series Play]",1
+"2025 World Series
+  x Game Series","To Be Determined
+[x - x in Series Play]",x,"To Be Determined
+[x - x in Series Play]",x
+World Series,National League,Wins,American League,Wins
