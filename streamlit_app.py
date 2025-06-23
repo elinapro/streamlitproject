@@ -54,3 +54,7 @@ try:
 
 except Exception as file_err:
     print(f"Error writing CSV: {file_err}")
+
+
+app = Dash(__name__)
+server = app.server

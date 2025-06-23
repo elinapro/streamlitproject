@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 @st.cache_data
 def load_data():
-    conn = sqlite3.connect(WS_results.db)
+    conn = sqlite3.connect("WS_results.db")
     df = pd.read_sql_query("SELECT * FROM WS_results", conn)
     conn.close()
     return df
