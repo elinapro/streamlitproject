@@ -4,6 +4,10 @@ import sqlite3
 import matplotlib.pyplot as plt
 
 
+app = Dash(__name__)
+server = app.server
+
+
 @st.cache_data
 def load_data():
     conn = sqlite3.connect("WS_results.db")
