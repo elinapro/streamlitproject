@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import sqlite3
 import matplotlib.pyplot as plt
+from dash import dash_table, Dash, html
 
 
 app = Dash(__name__)
