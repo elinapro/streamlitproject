@@ -8,6 +8,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
 import os
 import time
+import dashboard
 
 # Set headless mode for Streamlit compatibility
 options = Options()
@@ -50,11 +51,7 @@ try:
     df = pd.DataFrame(
         data, columns=["Title", "Team1", "Score1", "Team2", "Score2"])
     df.to_csv("WS_results.csv", index=False)
-    print("Saved the CSV to csv/WS_results.csv")
+    print("Saved the World Series scraping results! Good work, Elina")
 
 except Exception as file_err:
-    print(f"Error writing CSV: {file_err}")
-
-
-app = Dash(__name__)
-server = app.server
+    print(f"Error writing CSV")
