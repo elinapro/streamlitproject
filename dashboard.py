@@ -20,8 +20,8 @@ st.title("Elina's World Series POV via Python!")
 # Adds a section header — good for breaking content into parts
 st.header("Scroll through these mindblowing- er, historic results:")
 
-
-st.sidebar.title("Elina's World Series filters")
+# scroll through any year range you want
+st.sidebar.title("Elina's filters")
 year_min, year_max = df["Year"].min(), df["Year"].max()
 year_range = st.sidebar.slider(
     "Select Year Range", year_min, year_max, (2000, year_max))
@@ -57,9 +57,8 @@ plt.xticks(rotation=45)
 st.pyplot(fig1)
 
 
-# line chart of appearances
+# dot plot of appearances
 st.subheader("📈 Team Appearances Over Time")
-
 
 appearances = pd.concat([
     filtered_df[["Team1"]].rename(columns={"Team1": "Team"}),
@@ -69,7 +68,7 @@ team_counts = appearances["Team"].value_counts().reset_index()
 team_counts.columns = ["Team", "Appearances"]
 team_counts = team_counts.sort_values("Appearances")  # Sort for visual clarity
 
-# Plot: horizontal dot plot
+# Plot:
 fig, ax = plt.subplots(figsize=(8, len(team_counts) * 0.3))
 ax.scatter(team_counts["Appearances"], team_counts["Team"], s=100)
 
