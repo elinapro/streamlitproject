@@ -9,15 +9,6 @@ cursor = conn.cursor()
 filepath = 'WS_results_clean.csv'
 
 
-def infer_sqlite_type(series):
-    if pd.api.types.is_integer_dtype(series):
-        return "INTEGER"
-    elif pd.api.types.is_float_dtype(series):
-        return "REAL"
-    else:
-        return "TEXT"
-
-
 try:
     table_name = 'WS_results'
     print(f"Importing {filepath} as table '{table_name}'")

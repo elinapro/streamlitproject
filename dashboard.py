@@ -2,11 +2,9 @@ import streamlit as st
 import pandas as pd
 import sqlite3
 import matplotlib.pyplot as plt
-from dash import dash_table, Dash, html
 
 
-app = Dash(__name__)
-server = app.server
+streamlit run dashboard.py --server.port=${PORT} --server.address=0.0.0.0
 
 
 @st.cache_data
