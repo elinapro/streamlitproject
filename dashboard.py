@@ -16,9 +16,9 @@ df = load_data()
 
 # Basic text elements
 # Adds a big title at the top of the app
-st.title("Elina's World Series POV via Python!")
+st.title("Elina's World Series POV!")
 # Adds a section header — good for breaking content into parts
-st.header("Scroll through these mindblowing- er, historic results:")
+st.header("Scroll through these mindblowing, historic results:")
 
 # scroll through any year range you want
 st.sidebar.title("Elina's filters")
@@ -47,7 +47,7 @@ filtered_df["Winner"] = filtered_df.apply(get_winner, axis=1)
 
 # bar chart of wins by team
 
-st.subheader("🏆 World Series Wins by Team")
+st.subheader("World Series Wins by Team")
 wins = filtered_df["Winner"].value_counts().reset_index()
 wins.columns = ["Team", "Wins"]
 
@@ -68,9 +68,11 @@ team_counts = appearances["Team"].value_counts().reset_index()
 team_counts.columns = ["Team", "Appearances"]
 team_counts = team_counts.sort_values("Appearances")  # Sort for visual clarity
 
+
 # Plot:
 fig, ax = plt.subplots(figsize=(8, len(team_counts) * 0.3))
-ax.scatter(team_counts["Appearances"], team_counts["Team"], s=100)
+ax.scatter(team_counts["Appearances"],
+           team_counts["Team"], s=100, color="green")
 
 ax.set_xlabel("Number of Appearances")
 ax.set_ylabel("Team")
